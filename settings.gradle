@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Nicholas_Skjellum_Assignment01_COMP3710_01'
